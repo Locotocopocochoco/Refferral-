@@ -1,0 +1,21 @@
+{
+    "5337150824": {
+        "balance": 30.0,
+        "last_claim_time": 1701079224.4558508,
+        "ref_by": "5937299779",
+        "referred": 1,
+        "wallet": "Jwwiwiiw"
+    },
+    "5937299779": {
+        "balance": 4.0,
+        "last_claim_time": 1701192102.3759933,
+        "wallet": "Ffghj"
+    },
+    "global": {
+        "currency": "TRX",
+        "ref_bonus": 0.01,
+        "bonus_amount": 1,
+        "min_with": 0.1,
+        "max_with": 10
+    }
+}
